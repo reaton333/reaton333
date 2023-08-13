@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ross Eaton</h1>
-<h3 align="center">A passionate full-stack developer from South Carolina. I love to learn about new coding languages, golf, and spending time with my family!</h3>
+<h3 align="center">A passionate full-stack developer from South Carolina. I love to learn about new coding languages⚛️, golf⛳️, and spending time with my family👨‍👩‍👧!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reaton333&label=Profile%20views&color=0e75b6&style=flat" alt="reaton333" /> </p>
 
