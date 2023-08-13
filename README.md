@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rossthecryptob1" target="blank"><img src="https://img.shields.io/twitter/follow/rossthecryptob1?logo=twitter&style=for-the-badge" alt="rossthecryptob1" /></a> </p>
 
+- 💼 Portfolio coming soon: [My Portfolio](https://rosseaton.co)
+
 - 🔭 I’m currently working on [The Crypto Masters Website](https://thecryptomasters.com/)
 
 - 🌱 I’m currently learning **React**
